@@ -1,0 +1,15 @@
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\problem_13.csproj.AssemblyReference.cache
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\problem_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\problem_13.AssemblyInfoInputs.cache
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\problem_13.AssemblyInfo.cs
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\problem_13.csproj.CoreCompileInputs.cache
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\bin\Debug\net6.0\problem_13.exe
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\bin\Debug\net6.0\problem_13.deps.json
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\bin\Debug\net6.0\problem_13.runtimeconfig.json
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\bin\Debug\net6.0\problem_13.dll
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\bin\Debug\net6.0\problem_13.pdb
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\problem_13.dll
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\refint\problem_13.dll
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\problem_13.pdb
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\problem_13.genruntimeconfig.cache
+C:\Users\masya\OneDrive\Рабочий стол\DZ_2\problem_13\obj\Debug\net6.0\ref\problem_13.dll
